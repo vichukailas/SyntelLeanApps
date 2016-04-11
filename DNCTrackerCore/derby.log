@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 04 18:44:35 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0153-e169-1a9a-000000e92e60 
+on database directory C:\Vishnu\Databases\DNCDB with class loader sun.misc.Launcher$AppClassLoader@efd552 
+Loaded from file:/C:/apache-maven-2.2.1/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=C:\Vishnu\DNCTrackerCore
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
